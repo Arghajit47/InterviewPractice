@@ -1,6 +1,7 @@
 package LeetCode;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class StringMatchingInArray {
@@ -26,5 +27,6 @@ public class StringMatchingInArray {
     public static void main(String[] args) {
         String[] words = {"mass","as","hero","superhero"};
         System.out.println(stringMatching(words));
+
     }
 }
